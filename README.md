@@ -2,8 +2,7 @@
 ****
 # Hướng dẫn các bước Git đã thực hiện
 
-## Các bước Git đã thực hiện
-1. **Tải và cà đặt git, github:**
+1. **Tải và cà đặt git, github**
 2. **Tạo kho lưu trữ git cục bộ**
     - `D:` :chuyển từ ổ c sang ổ D
     - `cd thu_muc_muon_luu`:di chuyển đến thư mục muốn lưu
